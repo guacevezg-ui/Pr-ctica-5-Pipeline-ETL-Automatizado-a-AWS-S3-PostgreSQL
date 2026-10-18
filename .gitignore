@@ -1,0 +1,18 @@
+# Virtual Environment
+env/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environment & Credentials
+.env
+.aws/
+credentials
+secrets.json
+
+# Local Data / ETL Outputs
+*.csv
+*.xlsx
+*.log
